@@ -1,13 +1,13 @@
-January 11th (at 9am, BRB 301): Babak Faryabi-http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3471.html
+January 15th (at 9am, BRB 301): Babak Faryabi-http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3471.html
 
-January 18th: Golnaz Vahedi-http://www.nature.com/nprot/journal/v9/n6/full/nprot.2014.083.html
+January 22nd: Golnaz Vahedi-http://www.nature.com/nprot/journal/v9/n6/full/nprot.2014.083.html
 
-January 25th: Sepideh Dolatshahi-
+January 29th: Sepideh Dolatshahi-
 
-Feb. 1st: Yeqiao Zhou-
+Feb. 5th: Yeqiao Zhou-
 
-Feb. 8st: GW-
+Feb. 12th: Gregory Schwartz
 
-Feb. 15th: JJ-
+Feb. 19th: John Johnson-
 
-Feb. 22nd: Jeff-
+Feb. 26th: Jeff Lin-
