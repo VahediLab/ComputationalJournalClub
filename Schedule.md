@@ -8,6 +8,6 @@ Feb. 5th: Yeqiao Zhou-
 
 Feb. 12th: Gregory Schwartz
 
-Feb. 19th: John Johnson-
+Feb. 19th: John Johnson-http://m.genome.cshlp.org/content/early/2015/08/27/gr.192294.115
 
 Feb. 26th: Jeff Lin-
