@@ -6,7 +6,7 @@ January 22nd: Golnaz Vahedi-http://www.nature.com/nprot/journal/v9/n6/full/nprot
 
 Slides on motif analysis focusing on MEME suite: https://www.dropbox.com/s/xmcoe5sw8hew8j5/Motif_overview.pptx?dl=0
 
-January 29th: Sepideh Dolatshahi-
+January 29th: Sepideh Dolatshahi- http://www1.cs.columbia.edu/~dpeer/pub/stke2005.pdf
 
 Feb. 5th: Yeqiao Zhou-
 
