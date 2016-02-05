@@ -10,6 +10,8 @@ Slides on motif analysis focusing on MEME suite: https://www.dropbox.com/s/xmcoe
 
 January 29th: Sepideh Dolatshahi- http://www1.cs.columbia.edu/~dpeer/pub/stke2005.pdf
 
+Slides on Bayesian Networks: https://www.dropbox.com/s/zueacj7v2he66xz/BayesianNets_Sepideh.pptx?dl=0
+
 Feb. 5th: Yeqiao Zhou-http://www.genomebiology.com/2014/15/12/550
 
 Feb. 12th: Gregory Schwartz-
