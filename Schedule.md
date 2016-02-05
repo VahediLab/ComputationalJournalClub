@@ -16,7 +16,7 @@ Feb. 5th: Yeqiao Zhou-http://www.genomebiology.com/2014/15/12/550
 
 Feb. 12th: Gregory Schwartz-
 
-Feb. 19th: Hackathon meeting-
+Feb. 19th: Hackathon meeting-https://github.com/VahediLab/IFIGeneticsHackathon_2016
 
 Feb. 26th: John Johnson-http://m.genome.cshlp.org/content/early/2015/08/27/gr.192294.115
 
