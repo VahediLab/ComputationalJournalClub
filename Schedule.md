@@ -20,4 +20,4 @@ Feb. 19th: Hackathon meeting-
 
 Feb. 26th: John Johnson-http://m.genome.cshlp.org/content/early/2015/08/27/gr.192294.115
 
-Marth 4th: Jeff Lin-
+March 4th: Jeff Lin-
