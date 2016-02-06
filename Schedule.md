@@ -16,7 +16,7 @@ Feb. 5th: Yeqiao Zhou-http://www.genomebiology.com/2014/15/12/550
 
 Slides on DESeq2: https://www.dropbox.com/s/i2bbpsjlbiqgr4n/160205_DESeq2.pdf?dl=0
 
-Feb. 12th: Gregory Schwartz-
+Feb. 12th: Gregory Schwartz-http://ieeexplore.ieee.org/xpl/login.jsp?reload=true&tp=&arnumber=5767835&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5767835
 
 Feb. 19th: Hackathon meeting-https://github.com/VahediLab/IFIGeneticsHackathon_2016
 
