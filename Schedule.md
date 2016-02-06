@@ -13,6 +13,7 @@ January 29th: Sepideh Dolatshahi- http://www1.cs.columbia.edu/~dpeer/pub/stke200
 Slides on Bayesian networks: https://www.dropbox.com/s/zueacj7v2he66xz/BayesianNets_Sepideh.pptx?dl=0
 
 Feb. 5th: Yeqiao Zhou-http://www.genomebiology.com/2014/15/12/550
+
 Slides on DESeq2: https://www.dropbox.com/s/i2bbpsjlbiqgr4n/160205_DESeq2.pdf?dl=0
 
 Feb. 12th: Gregory Schwartz-
