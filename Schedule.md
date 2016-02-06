@@ -10,9 +10,10 @@ Slides on motif analysis focusing on MEME suite: https://www.dropbox.com/s/xmcoe
 
 January 29th: Sepideh Dolatshahi- http://www1.cs.columbia.edu/~dpeer/pub/stke2005.pdf
 
-Slides on Bayesian Networks: https://www.dropbox.com/s/zueacj7v2he66xz/BayesianNets_Sepideh.pptx?dl=0
+Slides on Bayesian networks: https://www.dropbox.com/s/zueacj7v2he66xz/BayesianNets_Sepideh.pptx?dl=0
 
 Feb. 5th: Yeqiao Zhou-http://www.genomebiology.com/2014/15/12/550
+Slides on DESeq2: https://www.dropbox.com/s/i2bbpsjlbiqgr4n/160205_DESeq2.pdf?dl=0
 
 Feb. 12th: Gregory Schwartz-
 
@@ -21,3 +22,5 @@ Feb. 19th: Hackathon meeting-https://github.com/VahediLab/IFIGeneticsHackathon_2
 Feb. 26th: John Johnson-http://m.genome.cshlp.org/content/early/2015/08/27/gr.192294.115
 
 March 4th: Jeff Lin-
+
+March 11th: David-
