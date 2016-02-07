@@ -22,6 +22,6 @@ Feb. 19th: Hackathon meeting-https://github.com/VahediLab/IFIGeneticsHackathon_2
 
 Feb. 26th: John Johnson-http://m.genome.cshlp.org/content/early/2015/08/27/gr.192294.115
 
-March 4th: Jeff Lin-
+March 4th: Jeff Lin-http://genome.cshlp.org/content/21/3/447
 
 March 11th: David-
