@@ -29,20 +29,20 @@ Feb. 19th: Hackathon meeting-https://github.com/VahediLab/IFIGeneticsHackathon_2
 
 -----
 
-Feb. 26th: Gregory Schwartz-http://ieeexplore.ieee.org/xpl/login.jsp?reload=true&tp=&arnumber=5767835&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5767835
+March 4th: Gregory Schwartz-http://ieeexplore.ieee.org/xpl/login.jsp?reload=true&tp=&arnumber=5767835&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5767835
 
 -----
 
-March 4th: John Johnson-http://m.genome.cshlp.org/content/early/2015/08/27/gr.192294.115
+March 11th: John Johnson-http://m.genome.cshlp.org/content/early/2015/08/27/gr.192294.115
 
 -----
 
-March 11th: Jeff Lin-http://genome.cshlp.org/content/21/3/447
+March 18th: Jeff Lin-http://genome.cshlp.org/content/21/3/447
 
 -----
 
-March 18th: David-
+March 25th: Sasi Manne-http://nar.oxfordjournals.org/content/early/2013/09/25/nar.gkt850.full
 
 -----
 
-March 25th: Sasi Manne-
+April 1st: Andrew Rech-
