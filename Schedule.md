@@ -32,6 +32,7 @@ Feb. 19th: Hackathon meeting-https://github.com/VahediLab/IFIGeneticsHackathon_2
 March 4th: Gregory Schwartz-http://ieeexplore.ieee.org/xpl/login.jsp?reload=true&tp=&arnumber=5767835&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5767835
 
 Slides on spectral clustering: https://www.dropbox.com/s/0hwzu4g9e21gh8f/GW_clustering.pdf?dl=0
+
 -----
 
 March 11th: John Johnson-http://m.genome.cshlp.org/content/early/2015/08/27/gr.192294.115
