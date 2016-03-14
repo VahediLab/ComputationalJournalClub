@@ -41,11 +41,11 @@ Slides on NucleoATAC: https://www.dropbox.com/s/87uvrtvbq93ilyd/Computational_JC
 
 -----
 
-March 25th: Sasi Manne-http://nar.oxfordjournals.org/content/early/2013/09/25/nar.gkt850.full
+March 18th: Sasi Manne-http://nar.oxfordjournals.org/content/early/2013/09/25/nar.gkt850.full
 
 -----
 
-March 18th: Jeff Lin-http://genome.cshlp.org/content/21/3/447
+March 25th: Jeff Lin-http://genome.cshlp.org/content/21/3/447
 
 -----
 
