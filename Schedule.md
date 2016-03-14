@@ -38,6 +38,7 @@ Slides on spectral clustering: https://www.dropbox.com/s/0hwzu4g9e21gh8f/GW_clus
 March 11th: John Johnson-http://m.genome.cshlp.org/content/early/2015/08/27/gr.192294.115
 
 Slides on NucleoATAC: https://www.dropbox.com/s/87uvrtvbq93ilyd/Computational_JC_NucleoATAC.pptx?dl=0
+
 -----
 
 March 25th: Sasi Manne-http://nar.oxfordjournals.org/content/early/2013/09/25/nar.gkt850.full
