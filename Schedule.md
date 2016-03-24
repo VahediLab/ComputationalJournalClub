@@ -43,6 +43,8 @@ Slides on NucleoATAC: https://www.dropbox.com/s/87uvrtvbq93ilyd/Computational_JC
 
 March 18th: Sasi Manne-http://nar.oxfordjournals.org/content/early/2013/09/25/nar.gkt850.full
 
+Slides on footprinting using Wellington: https://www.dropbox.com/s/3xezaq2yv252vr8/JC_SM_03182016.ppt?dl=0
+
 -----
 
 March 25th: Jeff Lin-http://genome.cshlp.org/content/21/3/447
