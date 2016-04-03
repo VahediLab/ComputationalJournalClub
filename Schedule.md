@@ -49,16 +49,24 @@ Slides on footprinting using Wellington: https://www.dropbox.com/s/3xezaq2yv252v
 
 March 25th: Jeff Lin-http://genome.cshlp.org/content/21/3/447
 
------
-
-April 1st: Babak Faryabi-
+Slides on CENTIPEDE: https://www.dropbox.com/s/u1x2zi7jcycnsuo/032516%20CENTIPEDE.pptx?dl=0
 
 -----
 
-April 8th: David Balli-http://www.ncbi.nlm.nih.gov/pubmed/23323831
+April 1st: Babak Faryabi on Cancer Genomics.
+
+-----
+
+April 8th: no JC. 
 
 -----
 
 April 15th: Golnaz Vahedi
 
+-----
 
+April 22th: Kasia Katarzyna and Simone Sidoli on Proteomics-
+
+-----
+
+April 29th: Yeqiao Zhou-
