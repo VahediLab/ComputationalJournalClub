@@ -61,12 +61,21 @@ April 8th: no JC.
 
 -----
 
-April 15th: Golnaz Vahedi- http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3539.html
+April 15th: no JC.
 
 -----
 
-April 22th: Kasia Katarzyna and Simone Sidoli on Proteomics-
+April 22nd: Golnaz Vahedi- http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3539.html
 
 -----
 
-April 29th: Yeqiao Zhou-
+April 29th: Kasia Katarzyna and Simone Sidoli on Proteomics-
+
+-----
+
+May 6th-Yeqiao Zhou
+
+-----
+
+May 13th-
+
