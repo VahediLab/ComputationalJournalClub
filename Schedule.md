@@ -5,6 +5,7 @@ http://statweb.stanford.edu/~tibs/ElemStatLearn/
 http://www-bcf.usc.edu/~gareth/ISL/
 
 -----
+#Journal club papers and presentations:
 
 January 15th (at 5pm, BRB 305): Babak Faryabi- http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3471.html
 
