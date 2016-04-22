@@ -1,4 +1,4 @@
-Reading recommendations:
+#Reading recommendations:
 
 http://statweb.stanford.edu/~tibs/ElemStatLearn/
 
