@@ -77,5 +77,12 @@ May 6th-Yeqiao Zhou
 
 -----
 
-May 13th-
+May 13th-JJ
 
+-----
+
+May 20th-Sasi Manne
+
+-----
+
+May 27th-Kasia Katarzyna and Simone Sidoli on Proteomics-
