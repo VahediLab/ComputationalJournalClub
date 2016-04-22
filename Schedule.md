@@ -80,7 +80,7 @@ April 29th: Kasia Katarzyna and Simone Sidoli on Proteomics-
 
 -----
 
-May 6th-Yeqiao Zhou
+May 6th-no JC
 
 -----
 
@@ -92,7 +92,12 @@ May 20th-Sasi Manne
 
 -----
 
-May 27th-JJ
+May 27th-Yeqiao Zhou
 
 -----
 
+June 3th-JJ
+
+-----
+
+June 10th-GW
