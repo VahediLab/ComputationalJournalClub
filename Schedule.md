@@ -1,5 +1,7 @@
-(At some point, we should read this: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004526)
+Reading recommendations:
 
+http://statweb.stanford.edu/~tibs/ElemStatLearn/
+http://www-bcf.usc.edu/~gareth/ISL/
 -----
 
 January 15th (at 5pm, BRB 305): Babak Faryabi- http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3471.html
