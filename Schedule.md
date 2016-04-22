@@ -4,6 +4,11 @@ http://statweb.stanford.edu/~tibs/ElemStatLearn/
 
 http://www-bcf.usc.edu/~gareth/ISL/
 
+#Paper suggestions:
+
+http://science.sciencemag.org/content/351/6280/1450.full-text.pdf+html
+
+
 -----
 #Journal club papers and presentations:
 
