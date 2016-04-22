@@ -67,6 +67,8 @@ April 15th: no JC.
 
 April 22nd: Golnaz Vahedi- http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3539.html
 
+Slides on ensemble learning and TargetFinder: https://www.dropbox.com/s/sj7jv9klw8mpnb2/April22_2016.pptx?dl=0
+
 -----
 
 April 29th: Kasia Katarzyna and Simone Sidoli on Proteomics-
