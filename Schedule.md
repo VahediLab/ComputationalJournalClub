@@ -84,7 +84,7 @@ Slides on ensemble learning and TargetFinder: https://www.dropbox.com/s/sj7jv9kl
 
 April 29th: Kasia Katarzyna and Simone Sidoli on Proteomics-
 
-Slides on an intorduciton on proteomics: https://www.dropbox.com/s/ut9yqan948ft2tf/Journal%20club%20-%20April%202016.pptx?dl=0
+Slides on an intorduciton to proteomics: https://www.dropbox.com/s/ut9yqan948ft2tf/Journal%20club%20-%20April%202016.pptx?dl=0
 
 -----
 
