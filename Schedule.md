@@ -94,20 +94,24 @@ May 6th-no JC
 
 -----
 
-May 13th-Kasia Katarzyna and Simone Sidoli on Proteomics-
+May 13th-Jeff's prelim practice-
 
 -----
 
-May 20th-Sasi Manne
+May 20th-Kasia Katarzyna and Simone Sidoli on Proteomics-
 
 -----
 
-May 27th-Yeqiao Zhou
+May 27th-Sasi Manne
 
 -----
 
-June 3th-JJ
+June 3th-Yeqiao Zhou
 
 -----
 
-June 10th-GW
+June 10th-JJ
+
+-----
+
+June 17th-GW
