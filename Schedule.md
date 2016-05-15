@@ -115,3 +115,7 @@ June 10th-JJ: http://www.nature.com/nature/journal/v523/n7561/full/nature14590.h
 -----
 
 June 17th-GW: http://www.nature.com/nmeth/journal/v13/n4/full/nmeth.3800.html
+
+More details on the protocol: https://www.dropbox.com/s/egq4cwehuaysb6z/C1_Plus_TraCeR_Single-cell_TCR_Sequencing_101-3170A1.pdf?dl=0
+
+
