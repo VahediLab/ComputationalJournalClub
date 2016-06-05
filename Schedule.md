@@ -108,6 +108,7 @@ May 27th-Kasia Katarzyna and Simone Sidoli on Proteomics-
 
 June 3th-Kasia Katarzyna and Simone Sidoli on Proteomics-
 
+Slides: https://www.dropbox.com/s/ut9yqan948ft2tf/Journal%20club%20-%20April%202016.pptx?dl=0
 -----
 
 June 10th-Sasi Manne
@@ -122,7 +123,11 @@ June 24th-JJ: Single-cell ATAC-seq: http://www.nature.com/nature/journal/v523/n7
 
 -----
 
-July 1st-GW: Single-cell TCR sequencing: http://www.nature.com/nmeth/journal/v13/n4/full/nmeth.3800.html
+July 1st-Babak: Proteogenomics: http://www.nature.com/nature/journal/v534/n7605/full/nature18003.html
+
+-----
+
+July 8th-GW: Single-cell TCR sequencing: http://www.nature.com/nmeth/journal/v13/n4/full/nmeth.3800.html
 
 More details on the protocol: https://www.dropbox.com/s/egq4cwehuaysb6z/C1_Plus_TraCeR_Single-cell_TCR_Sequencing_101-3170A1.pdf?dl=0
 
