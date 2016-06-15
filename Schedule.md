@@ -16,6 +16,8 @@ http://www.cell.com/fulltext/S2405-4712(16)30109-0
 
 http://www.nature.com/ng/journal/vaop/ncurrent/pdf/ng.3581.pdf
 
+http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature18270.pdf
+
 -----
 #Journal club papers and presentations:
 
@@ -116,15 +118,15 @@ June 10th-Sasi Manne
 
 -----
 
-June 17th-Yeqiao Zhou
+June 17th-GW: Proteogenomics: http://www.nature.com/nature/journal/v534/n7605/full/nature18003.html
+
+-----
+
+July 1st-Yeqiao Zhou
 
 -----
 
 June 24th-JJ: Single-cell ATAC-seq: http://www.nature.com/nature/journal/v523/n7561/full/nature14590.html
-
------
-
-July 1st-Babak: Proteogenomics: http://www.nature.com/nature/journal/v534/n7605/full/nature18003.html
 
 -----
 
