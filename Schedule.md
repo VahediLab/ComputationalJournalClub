@@ -128,6 +128,8 @@ June 24th-No JC
 
 July 1st-Yeqiao Zhou
 
+http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-559
+
 -----
 
 July 8th-JJ: Single-cell ATAC-seq: http://www.nature.com/nature/journal/v523/n7561/full/nature14590.html
