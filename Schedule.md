@@ -132,15 +132,10 @@ http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-559
 
 -----
 
-July 8th-JJ: Single-cell ATAC-seq: http://www.nature.com/nature/journal/v523/n7561/full/nature14590.html
+July 15th-JJ: Single-cell ATAC-seq: http://www.nature.com/nature/journal/v523/n7561/full/nature14590.html
 
 -----
 
-July 15th-Golnaz: Single-cell TCR sequencing: http://www.nature.com/nmeth/journal/v13/n4/full/nmeth.3800.html
+Summer break-July 15-August 26th. We will resume our JC in the fall.
 
-More details on the protocol: https://www.dropbox.com/s/egq4cwehuaysb6z/C1_Plus_TraCeR_Single-cell_TCR_Sequencing_101-3170A1.pdf?dl=0
-
------
-
-July 28th-Babak Faryabi
 
