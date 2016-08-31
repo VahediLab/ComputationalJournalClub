@@ -138,4 +138,15 @@ July 15th-JJ: Single-cell ATAC-seq: http://www.nature.com/nature/journal/v523/n7
 
 Summer break-July 15-August 26th. We will resume our JC in the fall.
 
+-----
+
+September 9th-Cameron: Single-cell TCR sequencing: http://www.nature.com/nmeth/journal/v13/n4/abs/nmeth.3800.html
+
+-----
+
+September 16th:George Gerogakilas: motif analysis using affinity measurement: http://www.nature.com/nprot/journal/v6/n12/full/nprot.2011.409.html
+
+-----
+
+
 
