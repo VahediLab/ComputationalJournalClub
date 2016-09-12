@@ -142,9 +142,14 @@ Summer break-July 15-August 26th. We will resume our JC in the fall.
 
 September 9th-Cameron: Single-cell TCR sequencing: http://www.nature.com/nmeth/journal/v13/n4/abs/nmeth.3800.html
 
+Protocol: https://www.dropbox.com/s/l3uvdepoldnzb9b/C1%20Tracer%20Workflow.pdf?dl=0
+
+Slides: https://www.dropbox.com/s/3wyardm3m0m6rtz/Tracer%20Presentation.pdf?dl=0
+
 -----
 
 September 16th:George Gerogakilas: motif analysis using affinity measurement: http://www.nature.com/nprot/journal/v6/n12/full/nprot.2011.409.html
+
 
 -----
 
