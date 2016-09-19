@@ -25,11 +25,11 @@ September 23rd: Babak Faryabi - Phosphoproteome Integration Reveals Patient Spec
 
 ----
 
-September 16th:George Gerogakilas: motif analysis using affinity measurement: http://www.nature.com/nprot/journal/v6/n12/full/nprot.2011.409.html
+September 16th:George Gerogakilas: miRNA prediction tools.
 
 -----
 
-September 9th-Cameron: Single-cell TCR sequencing: http://www.nature.com/nmeth/journal/v13/n4/abs/nmeth.3800.html
+September 9th-Cameron McConkey: Single-cell TCR sequencing: http://www.nature.com/nmeth/journal/v13/n4/abs/nmeth.3800.html
 
 Protocol: https://www.dropbox.com/s/l3uvdepoldnzb9b/C1%20Tracer%20Workflow.pdf?dl=0
 
