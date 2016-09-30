@@ -21,6 +21,15 @@ http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature18270.pdf
 -----
 #Journal club papers and presentations:
 
+
+----
+
+October 28th:Yeqiao.
+
+----
+
+October 21th:IGG Retreat. no JC.
+
 ----
 
 October 14th:Golnaz Vahedi-
