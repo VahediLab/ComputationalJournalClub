@@ -23,13 +23,13 @@ http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature18270.pdf
 
 ----
 
-October 14th:Golnaz Vahedi:
+October 14th:Golnaz Vahedi-
 
 http://science.sciencemag.org/content/352/6282/189.full.pdf+html
 
 ----
 
-October 7th:GW: 
+October 7th:GW-
 
 -----
 
