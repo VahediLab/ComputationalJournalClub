@@ -21,6 +21,19 @@ http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature18270.pdf
 -----
 #Journal club papers and presentations:
 
+----
+
+October 14th:Golnaz Vahedi:
+
+http://science.sciencemag.org/content/352/6282/189.full.pdf+html
+
+----
+
+October 7th:GW: 
+
+-----
+
+
 September 23rd: Babak Faryabi - Phosphoproteome Integration Reveals Patient Specific Networks in Prostate Cancer: http://www.cell.com/fulltext/S0092-8674(16)30913-8
 
 ----
