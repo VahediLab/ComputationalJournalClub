@@ -23,15 +23,11 @@ http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature18270.pdf
 
 ----
 
-Nov 18th: Matt Paul-
-
-http://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2542-4 
+Nov 18th: Matt Paul-http://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2542-4 
 
 ----
 
-Nov 4th:Derek Kelly.
-
-http://science.sciencemag.org/content/sci/352/6285/600.full.pdf
+Nov 4th:Derek Kelly-http://science.sciencemag.org/content/sci/352/6285/600.full.pdf
 
 ----
 
@@ -43,19 +39,16 @@ October 21th:IGG Retreat. no JC.
 
 ----
 
-October 14th:Golnaz Vahedi-
-
-http://science.sciencemag.org/content/352/6282/189.full.pdf+html
+October 14th:Golnaz Vahedi-http://science.sciencemag.org/content/352/6282/189.full.pdf+html
 
 ----
 
-October 7th:GW-
-http://www.biomedcentral.com/qc/1752-0509/9/S1/S7/
+October 7th:GW-http://www.biomedcentral.com/qc/1752-0509/9/S1/S7/
 
 -----
 
 
-September 23rd: Babak Faryabi - Phosphoproteome Integration Reveals Patient Specific Networks in Prostate Cancer: http://www.cell.com/fulltext/S0092-8674(16)30913-8
+September 23rd: Babak Faryabi-Proteogenomics: http://www.cell.com/fulltext/S0092-8674(16)30913-8
 
 ----
 
@@ -63,7 +56,7 @@ September 16th:George Gerogakilas: miRNA prediction tools.
 
 -----
 
-September 9th-Cameron McConkey: Single-cell TCR sequencing: http://www.nature.com/nmeth/journal/v13/n4/abs/nmeth.3800.html
+September 9th-Cameron McConkey: Single-cell TCR sequencing-http://www.nature.com/nmeth/journal/v13/n4/abs/nmeth.3800.html
 
 Protocol: https://www.dropbox.com/s/l3uvdepoldnzb9b/C1%20Tracer%20Workflow.pdf?dl=0
 
