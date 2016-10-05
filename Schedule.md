@@ -21,6 +21,17 @@ http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature18270.pdf
 -----
 #Journal club papers and presentations:
 
+----
+
+Nov 18th: Matt Paul-
+
+http://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2542-4 
+
+----
+
+Nov 4th:Derek Kelly.
+
+http://science.sciencemag.org/content/sci/352/6285/600.full.pdf
 
 ----
 
@@ -39,6 +50,7 @@ http://science.sciencemag.org/content/352/6282/189.full.pdf+html
 ----
 
 October 7th:GW-
+http://www.biomedcentral.com/qc/1752-0509/9/S1/S7/
 
 -----
 
