@@ -27,6 +27,10 @@ Nov 18th: Matt Paul-http://bmcgenomics.biomedcentral.com/articles/10.1186/s12864
 
 ----
 
+Nov 11th: Sasi Manne-
+
+----
+
 Nov 4th:Derek Kelly-http://science.sciencemag.org/content/sci/352/6285/600.full.pdf
 
 ----
