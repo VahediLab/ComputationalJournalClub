@@ -23,7 +23,7 @@ http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature18270.pdf
 
 ----
 
-Dec 9th- Steph Sansbury-https://f1000research.com/articles/4-1521/v2
+Dec 9th: Steph Sansbury-https://f1000research.com/articles/4-1521/v2
 
 ----
 
