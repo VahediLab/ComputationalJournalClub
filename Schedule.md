@@ -31,7 +31,7 @@ Nov 18th: Matt Paul-http://bmcgenomics.biomedcentral.com/articles/10.1186/s12864
 
 ----
 
-Nov 11th: Sasi Manne-
+Nov 11th: Sasi Manne-http://www.nature.com/nbt/journal/v32/n4/full/nbt.2859.html
 
 ----
 
