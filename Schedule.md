@@ -6,6 +6,8 @@ http://www-bcf.usc.edu/~gareth/ISL/
 
 #Paper suggestions:
 
+http://www.nature.com/nmeth/journal/v13/n5/full/nmeth.3809.html
+
 http://science.sciencemag.org/content/351/6280/1450.full-text.pdf+html
 
 http://science.sciencemag.org/content/sci/352/6285/600.full.pdf
