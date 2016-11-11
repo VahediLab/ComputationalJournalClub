@@ -29,7 +29,7 @@ Dec 9th: Steph Sansbury-https://f1000research.com/articles/4-1521/v2
 
 ----
 
-Nov 18th: Matt Paul-http://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2542-4 
+Nov 18th: no JC.
 
 ----
 
