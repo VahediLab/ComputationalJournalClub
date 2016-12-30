@@ -6,19 +6,9 @@ http://www-bcf.usc.edu/~gareth/ISL/
 
 #Paper suggestions:
 
-http://www.nature.com/nmeth/journal/v13/n5/full/nmeth.3809.html
+Gini index for single-cell genomics: http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1010-4
 
-http://science.sciencemag.org/content/351/6280/1450.full-text.pdf+html
-
-http://science.sciencemag.org/content/sci/352/6285/600.full.pdf
-
-http://science.sciencemag.org/content/352/6282/189
-
-http://www.cell.com/fulltext/S2405-4712(16)30109-0
-
-http://www.nature.com/ng/journal/vaop/ncurrent/pdf/ng.3581.pdf
-
-http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature18270.pdf
+Single-cell RNA-seq in Nippo-infected mice (Th2 response): http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4866375&blobtype=pdf
 
 ----
 
