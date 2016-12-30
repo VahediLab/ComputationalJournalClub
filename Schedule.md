@@ -10,6 +10,7 @@ Gini index for single-cell genomics: http://genomebiology.biomedcentral.com/arti
 
 Single-cell RNA-seq in Nippo-infected mice (Th2 response): http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4866375&blobtype=pdf
 
+International Human Epigenome Consortium (IHEC) on Genetic Drivers of Epigenetic and Transcriptional Variation in Human Immune Cells: http://www.cell.com/cell/fulltext/S0092-8674(16)31446-5
 ----
 
 #Journal club papers and presentations:
