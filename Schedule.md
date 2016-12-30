@@ -17,7 +17,7 @@ International Human Epigenome Consortium (IHEC) on Genetic Drivers of Epigenetic
 #Journal club papers and presentations:
 
 ----
-2017
+**2017**
 ----
 
 March 24th, 2017: Steph Sansbury (?)
@@ -63,7 +63,7 @@ Jan. 20th, 2017: George Georgakilas; on DNA-sequence features?
 Jan. 13th, 2017: Greg Grant; Comprehensive benchmarking of RNA-seq aligners-http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4106.html
 
 ----
-2016
+**2016**
 ----
 
 Dec 9th: Steph Sansbury-https://f1000research.com/articles/4-1521/v2
