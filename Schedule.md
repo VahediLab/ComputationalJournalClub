@@ -16,6 +16,43 @@ Single-cell RNA-seq in Nippo-infected mice (Th2 response): http://europepmc.org/
 
 ----
 2017
+
+----
+
+March 17th, 2017: Austin Huffman;
+
+----
+
+March 10th, 2017: Megan Frederick;
+
+----
+
+March 3rd, 2017: Sasi Manne;
+
+----
+
+Feb. 24th, 2017: Babak Faryabi;
+
+----
+
+Feb. 17th, 2017: Golnaz Vahedi;
+
+----
+
+Feb. 10th, 2017: John Johnson;
+
+----
+
+Feb. 3rd, 2017: Gregory Schwartz;
+
+----
+
+Jan. 27th, 2017: Yeqiao Zhou;
+
+----
+
+Jan. 20th, 2017: George Georgakilas; on DNA-sequence features?
+
 ----
 
 Jan. 13th, 2017: Greg Grant; Comprehensive benchmarking of RNA-seq aligners-http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4106.html
