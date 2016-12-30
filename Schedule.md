@@ -27,6 +27,7 @@ Jan. 13th, 2017: Greg Grant; Comprehensive benchmarking of RNA-seq aligners-http
 
 ----
 2016
+----
 
 Dec 9th: Steph Sansbury-https://f1000research.com/articles/4-1521/v2
 
