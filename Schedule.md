@@ -23,7 +23,10 @@ http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature18270.pdf
 -----
 #Journal club papers and presentations:
 
+Jan. 13th, 2017: Greg Grant; Comprehensive benchmarking of RNA-seq aligners-http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4106.html
+
 ----
+2016
 
 Dec 9th: Steph Sansbury-https://f1000research.com/articles/4-1521/v2
 
