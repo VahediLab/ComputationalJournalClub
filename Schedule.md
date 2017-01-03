@@ -12,6 +12,8 @@ Single-cell RNA-seq in Nippo-infected mice (Th2 response): http://europepmc.org/
 
 International Human Epigenome Consortium (IHEC) on Genetic Drivers of Epigenetic and Transcriptional Variation in Human Immune Cells: http://www.cell.com/cell/fulltext/S0092-8674(16)31446-5
 
+Batch effects in scRNA-seq: http://www.nature.com/articles/srep39921
+
 ----
 
 #Journal club papers and presentations:
