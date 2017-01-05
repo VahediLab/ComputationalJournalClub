@@ -16,6 +16,12 @@ Batch effects in scRNA-seq: http://www.nature.com/articles/srep39921
 
 ----
 
+#Where and when:
+
+We meet on Fridays at 5pm in 305 BRB (421 Curie Blvd). Light snack is provided thanks to the generoucity of the Institute for Immunology (IFI). 
+
+----
+
 #Journal club papers and presentations:
 
 ----
