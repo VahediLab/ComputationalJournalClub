@@ -1,6 +1,6 @@
 #Where and when:
 
-We meet on Fridays at 5pm in 305 BRB (421 Curie Blvd). Light snack is provided thanks to the generoucity of the Institute for Immunology (IFI). 
+We meet on **Fridays** at **5pm** in **305 BRB** (421 Curie Blvd). Light snack is provided thanks to the generoucity of the Institute for Immunology (IFI). 
 
 ----
 
