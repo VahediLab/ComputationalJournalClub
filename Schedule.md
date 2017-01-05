@@ -45,7 +45,7 @@ Feb. 24th, 2017: Babak Faryabi;
 
 ----
 
-Feb. 17th, 2017: Golnaz Vahedi;
+Feb. 17th, 2017: George Georgakilas; on DNA-sequence features?
 
 ----
 
@@ -61,7 +61,7 @@ Jan. 27th, 2017: Yeqiao Zhou;
 
 ----
 
-Jan. 20th, 2017: George Georgakilas; on DNA-sequence features?
+Jan. 20th, 2017: Golnaz Vahedi; 
 
 ----
 
