@@ -16,7 +16,7 @@ Batch effects in scRNA-seq: http://www.nature.com/articles/srep39921
 
 ----
 
-#Journal club papers and presentations:
+#Journal club schedule:
 
 ----
 **2017**
