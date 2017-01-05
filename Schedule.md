@@ -1,8 +1,8 @@
-#Reading recommendations:
+#Where and when:
 
-http://statweb.stanford.edu/~tibs/ElemStatLearn/
+We meet on Fridays at 5pm in 305 BRB (421 Curie Blvd). Light snack is provided thanks to the generoucity of the Institute for Immunology (IFI). 
 
-http://www-bcf.usc.edu/~gareth/ISL/
+----
 
 #Paper suggestions:
 
@@ -13,12 +13,6 @@ Single-cell RNA-seq in Nippo-infected mice (Th2 response): http://europepmc.org/
 International Human Epigenome Consortium (IHEC) on Genetic Drivers of Epigenetic and Transcriptional Variation in Human Immune Cells: http://www.cell.com/cell/fulltext/S0092-8674(16)31446-5
 
 Batch effects in scRNA-seq: http://www.nature.com/articles/srep39921
-
-----
-
-#Where and when:
-
-We meet on Fridays at 5pm in 305 BRB (421 Curie Blvd). Light snack is provided thanks to the generoucity of the Institute for Immunology (IFI). 
 
 ----
 
@@ -242,4 +236,9 @@ January 15th (at 5pm, BRB 305): Babak Faryabi- http://www.nature.com/ng/journal/
 Slides on clustering and posterior probability:: https://www.dropbox.com/s/zwmrj3mehvzhhx4/CompJC_160111.pptx?dl=0
 
 -----
+#Reading recommendations:
+
+http://statweb.stanford.edu/~tibs/ElemStatLearn/
+
+http://www-bcf.usc.edu/~gareth/ISL/
 
