@@ -11,8 +11,6 @@ We meet on **Fridays** at **5pm** in **305 BRB** (421 Curie Blvd). Light snack i
 
 Single-cell RNA-seq in Nippo-infected mice (Th2 response): http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4866375&blobtype=pdf
 
-International Human Epigenome Consortium (IHEC) on Genetic Drivers of Epigenetic and Transcriptional Variation in Human Immune Cells: http://www.cell.com/cell/fulltext/S0092-8674(16)31446-5
-
 Batch effects in scRNA-seq: http://www.nature.com/articles/srep39921
 
 ----
