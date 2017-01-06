@@ -9,8 +9,6 @@ We meet on **Fridays** at **5pm** in **305 BRB** (421 Curie Blvd). Light snack i
 
 #Paper suggestions:
 
-Gini index for single-cell genomics: http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1010-4
-
 Single-cell RNA-seq in Nippo-infected mice (Th2 response): http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4866375&blobtype=pdf
 
 International Human Epigenome Consortium (IHEC) on Genetic Drivers of Epigenetic and Transcriptional Variation in Human Immune Cells: http://www.cell.com/cell/fulltext/S0092-8674(16)31446-5
@@ -25,11 +23,11 @@ Batch effects in scRNA-seq: http://www.nature.com/articles/srep39921
 **2017**
 ----
 
-March 24th, 2017: Steph Sansbury (?)
+March 24th, 2017: Steph Sansbury;
 
 ----
 
-March 17th, 2017: Austin Huffman;
+March 17th, 2017: Austin Huffman; Gini index for single-cell genomics: http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1010-4
 
 ----
 
@@ -61,7 +59,7 @@ Jan. 27th, 2017: Yeqiao Zhou;
 
 ----
 
-Jan. 20th, 2017: Golnaz Vahedi; 
+Jan. 20th, 2017: Golnaz Vahedi; International Human Epigenome Consortium (IHEC) on Genetic Drivers of Epigenetic and Transcriptional Variation in Human Immune Cells: http://www.cell.com/cell/fulltext/S0092-8674(16)31446-5
 
 ----
 
