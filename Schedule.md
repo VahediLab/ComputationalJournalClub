@@ -3,7 +3,7 @@
 
 #When and where:
 
-We meet on **Fridays** at **5pm** in **305 BRB** (421 Curie Blvd). Light snack is provided thanks to the generoucity of the Institute for Immunology (IFI). 
+We meet on **Fridays** at **5pm** in **301 BRB** (421 Curie Blvd). Light snack is provided thanks to the generoucity of the Institute for Immunology (IFI). 
 
 ----
 
@@ -57,7 +57,8 @@ Jan. 27th, 2017: Yeqiao Zhou;
 
 ----
 
-Jan. 20th, 2017: Golnaz Vahedi; International Human Epigenome Consortium (IHEC) on Genetic Drivers of Epigenetic and Transcriptional Variation in Human Immune Cells: http://www.cell.com/cell/fulltext/S0092-8674(16)31446-5
+Jan. 20th, 2017: Golnaz Vahedi; Quantitative modeling of transcription factor binding
+specificities using DNA shape http://rohslab.cmb.usc.edu/Papers/2015_Pnas_Zhou.pdf
 
 ----
 
