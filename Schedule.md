@@ -37,7 +37,7 @@ March 3rd, 2017: Sasi Manne;
 
 ----
 
-Feb. 24th, 2017: Babak Faryabi;
+Feb. 24th, 2017: IGG recruitment. Babak Faryabi;
 
 ----
 
@@ -45,20 +45,22 @@ Feb. 17th, 2017: George Georgakilas; on DNA-sequence features?
 
 ----
 
-Feb. 10th, 2017: John Johnson;
+Feb. 10th, 2017: GCB recruitment. John Johnson;
 
 ----
 
-Feb. 3rd, 2017: Gregory Schwartz;
+Feb. 3rd, 2017: GGR recruitment. Gregory Schwartz;
 
 ----
 
-Jan. 27th, 2017: Yeqiao Zhou;
-
-----
-
-Jan. 20th, 2017: Golnaz Vahedi; Quantitative modeling of transcription factor binding
+Jan. 27th, 2017: Golnaz Vahedi; Quantitative modeling of transcription factor binding
 specificities using DNA shape http://rohslab.cmb.usc.edu/Papers/2015_Pnas_Zhou.pdf
+
+Yeqiao Zhou;
+
+----
+
+Jan. 20th, 2017: GGR recruitment. 
 
 ----
 
