@@ -19,6 +19,19 @@ Batch effects in scRNA-seq: http://www.nature.com/articles/srep39921
 
 ----
 **2017**
+
+----
+
+April 14th, 2017: George;
+
+----
+
+April 7th, 2017: JJ;
+
+----
+
+March 31th, 2017: GW;
+
 ----
 
 March 24th, 2017: Steph Sansbury;
@@ -29,7 +42,7 @@ March 17th, 2017: Austin Huffman; Gini index for single-cell genomics: http://ge
 
 ----
 
-March 10th, 2017: Megan Frederick;
+March 10th, 2017: Megan Frederick; Dumpter diving in RNA-seq: http://biorxiv.org/content/early/2016/05/13/053041
 
 ----
 
@@ -37,26 +50,26 @@ March 3rd, 2017: Sasi Manne;
 
 ----
 
-Feb. 24th, 2017: IGG recruitment. Babak Faryabi;
+Feb. 24th, 2017: IGG recruitment. 
 
 ----
 
-Feb. 17th, 2017: George Georgakilas; on DNA-sequence features?
+Feb. 17th, 2017: Yeqiao Zhou;
 
 ----
 
-Feb. 10th, 2017: GCB recruitment. John Johnson;
+Feb. 10th, 2017: GCB recruitment. 
 
 ----
 
-Feb. 3rd, 2017: GGR recruitment. Gregory Schwartz;
+Feb. 3rd, 2017: GGR recruitment. 
 
 ----
 
 Jan. 27th, 2017: Golnaz Vahedi; Quantitative modeling of transcription factor binding
 specificities using DNA shape http://rohslab.cmb.usc.edu/Papers/2015_Pnas_Zhou.pdf
 
-Yeqiao Zhou;
+
 
 ----
 
