@@ -58,7 +58,7 @@ Feb. 24th, 2017: IGG recruitment.
 
 ----
 
-Feb. 17th, 2017: Yeqiao Zhou;
+Feb. 17th, 2017: Yeqiao Zhou; http://www.nature.com/ng/journal/v48/n3/full/ng.3487.html
 
 ----
 
