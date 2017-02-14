@@ -26,11 +26,15 @@ Genetic Drivers of Epigenetic and Transcriptional Variation in Human Immune Cell
 
 ----
 
-April 14th, 2017: George;
+April 21th, 2017: George;
 
 ----
 
-April 7th, 2017: JJ;
+April 14th, 2017: JJ;
+
+----
+
+April 7th, 2017: GW;
 
 ----
 
@@ -38,19 +42,23 @@ March 31th, 2017: GW;
 
 ----
 
-March 24th, 2017: Steph Sansbury;
+March 31th, 2017: Steph Sansbury;
 
 ----
 
-March 17th, 2017: Austin Huffman; Gini index for single-cell genomics: http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1010-4
+March 24th, 2017: Austin Huffman; Gini index for single-cell genomics: http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1010-4
 
 ----
 
-March 10th, 2017: Megan Frederick; Dumpter diving in RNA-seq: http://biorxiv.org/content/early/2016/05/13/053041
+March 17th, 2017: Megan Frederick; Dumpter diving in RNA-seq: http://biorxiv.org/content/early/2016/05/13/053041
 
 ----
 
-March 3rd, 2017: Sasi Manne;
+March 10th, 2017: Sasi Manne; http://www.pnas.org/content/early/2017/01/25/1621150114.abstract
+
+----
+
+March 3rd, 2017: No JC.
 
 ----
 
