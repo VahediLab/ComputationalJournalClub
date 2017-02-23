@@ -11,6 +11,8 @@ We meet on **Fridays** at **5pm** in **301 BRB** (421 Curie Blvd). Light snack i
 
 Sean Davis' collection of single-cell papers: https://github.com/seandavi/awesome-single-cell
 
+New single-cell RNA-seq analysis by Trapnell: http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4150.html
+
 Single-cell RNA-seq in Nippo-infected mice (Th2 response): http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4866375&blobtype=pdf
 
 Batch effects in scRNA-seq: http://www.nature.com/articles/srep39921
