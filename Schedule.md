@@ -40,7 +40,7 @@ April 7th, 2017: Babak;
 
 ----
 
-March 31th, 2017: GW;
+March 31th, 2017: Sasi Manne; http://www.pnas.org/content/early/2017/01/25/1621150114.abstract
 
 ----
 
@@ -56,7 +56,8 @@ March 17th, 2017: Megan Frederick; Dumpter diving in RNA-seq: http://biorxiv.org
 
 ----
 
-March 10th, 2017: Sasi Manne; http://www.pnas.org/content/early/2017/01/25/1621150114.abstract
+March 10th, 2017: GW; single-cell ATAC analysis
+http://biorxiv.org/content/biorxiv/early/2017/02/21/110346.full.pdf
 
 ----
 
