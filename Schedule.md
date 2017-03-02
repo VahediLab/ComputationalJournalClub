@@ -30,23 +30,23 @@ Genetic Drivers of Epigenetic and Transcriptional Variation in Human Immune Cell
 
 ----
 
-April 21th, 2017: George;
+April 27th, 2017: George;
 
 ----
 
-April 14th, 2017: JJ;
+April 21th, 2017: JJ;
 
 ----
 
-April 7th, 2017: Babak;
+April 14th, 2017: Babak;
+
+----
+
+April 7th, 2017: Steph Sansbury;
 
 ----
 
 March 31th, 2017: Sasi Manne; http://www.pnas.org/content/early/2017/01/25/1621150114.abstract
-
-----
-
-March 31th, 2017: Steph Sansbury;
 
 ----
 
