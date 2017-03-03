@@ -38,7 +38,7 @@ April 21th, 2017: JJ;
 
 ----
 
-April 14th, 2017: Babak;
+April 14th, 2017: Matt Paul; single-cell RNA-seq analysis using Census: http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4150.html
 
 ----
 
