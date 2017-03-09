@@ -21,6 +21,8 @@ Batch effects in scRNA-seq: http://www.nature.com/articles/srep39921
 
 Genetic Drivers of Epigenetic and Transcriptional Variation in Human Immune Cells :http://www.cell.com/cell/fulltext/S0092-8674(16)31446-5
 
+Single-cell RNA-seq in Th1 and Tfh cells: http://biorxiv.org/content/biorxiv/early/2016/09/13/074971.full.pdf
+
 ----
 
 #Journal club schedule:
