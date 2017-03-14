@@ -52,7 +52,7 @@ March 31th, 2017: Sasi Manne; http://www.pnas.org/content/early/2017/01/25/16211
 
 ----
 
-March 24th, 2017: Austin Huffman; Gini index for single-cell genomics: http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1010-4
+March 24th, 2017: Austin Huffman; scRNA-seq in CD8 T cells: http://www.nature.com/ni/journal/vaop/ncurrent/full/ni.3688.html
 
 ----
 
