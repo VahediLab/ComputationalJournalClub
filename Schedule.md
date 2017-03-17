@@ -1,12 +1,12 @@
-#Faryabi/Vahedi Laboratories at the University of Pennsylvania
+# Faryabi/Vahedi Laboratories at the University of Pennsylvania
 
-#When and where:
+# When and where:
 
 We meet on **Fridays** at **5pm** in **301 BRB** (421 Curie Blvd). Light snack is provided thanks to the generosity of the Institute for Immunology (IFI). 
 
 ----
 
-#Paper suggestions:
+# Paper suggestions:
 
 Sean Davis' collection of single-cell papers: https://github.com/seandavi/awesome-single-cell
 
