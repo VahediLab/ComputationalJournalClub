@@ -8,6 +8,8 @@ We meet on **Fridays** at **5pm** in **301 BRB** (421 Curie Blvd). Light snack i
 
 # Paper suggestions:
 
+Information theory and epigenome: http://www.nature.com/ng/journal/vaop/ncurrent/pdf/ng.3811.pdf
+
 Sean Davis' collection of single-cell papers: https://github.com/seandavi/awesome-single-cell
 
 scRNA-seq analysis: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1176-5
