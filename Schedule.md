@@ -45,7 +45,7 @@ April 14th, 2017: Matt Paul; single-cell RNA-seq analysis using Census: http://w
 
 ----
 
-April 7th, 2017: Steph Sansbury;
+April 7th, 2017: No JC;
 
 ----
 
