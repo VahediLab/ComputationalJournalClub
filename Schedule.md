@@ -33,11 +33,11 @@ Single-cell RNA-seq in Th1 and Tfh cells: http://biorxiv.org/content/biorxiv/ear
 
 ----
 
-April 27th, 2017: George;
+April 27th, 2017: No JC;
 
 ----
 
-April 21th, 2017: JJ;
+April 21th, 2017: No JC;
 
 ----
 
