@@ -25,6 +25,8 @@ Genetic Drivers of Epigenetic and Transcriptional Variation in Human Immune Cell
 Single-cell RNA-seq in Th1 and Tfh cells: http://biorxiv.org/content/biorxiv/early/2016/09/13/074971.full.pdf
 
 SCnorm: http://www.nature.com/doifinder/10.1038/nmeth.4263
+
+Kernel-based learning in scRNA: http://www.nature.com/nmeth/journal/v14/n4/full/nmeth.4207.html?utm_content=buffer7383c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 ----
 
 #Journal club schedule:
