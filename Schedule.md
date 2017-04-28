@@ -27,12 +27,25 @@ Single-cell RNA-seq in Th1 and Tfh cells: http://biorxiv.org/content/biorxiv/ear
 SCnorm: http://www.nature.com/doifinder/10.1038/nmeth.4263
 
 Kernel-based learning in scRNA: http://www.nature.com/nmeth/journal/v14/n4/full/nmeth.4207.html?utm_content=buffer7383c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
 ----
 
 #Journal club schedule:
 
 ----
 **2017**
+
+May 5th, 2017: Yeqiao Zhou, HiChIP party!
+
+HiC-Pro -- raw data processing: 
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0831-x
+
+ICE -- contact matrix normalization:
+http://www.nature.com/nmeth/journal/v9/n10/full/nmeth.2148.html
+
+Fit-Hi-C -- call significant contact: 
+http://genome.cshlp.org/content/early/2014/02/05/gr.160374.113.full.pdf+html
+
 
 ----
 
