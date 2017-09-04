@@ -38,47 +38,47 @@ Kernel-based learning in scRNA: http://www.nature.com/nmeth/journal/v14/n4/full/
 
 ----
 
-December 1st: Maria
+December 1st, 2017: Maria
 
 ----
 
-November 17th: Yeqiao
+November 17th, 2017: Yeqiao
 
 ----
 
-November 10rd: Stanley
+November 10rd, 2017: Stanley
 
 ----
 
-November 3rd: Babak
+November 3rd, 2017: Babak
 
 ----
 
-October 28th: Golnaz
+October 28th, 2017: Golnaz
 
 ----
 
-October 21th: GW
+October 21th, 2017: GW
 
 ----
 
-October 14th: George,
+October 14th, 2017: George,
 
 ----
 
-October 6th: Connie,
+October 6th, 2017: Connie,
 
 ----
 
-September 29th: Maria, 3D conformation and conservation: http://www.sciencedirect.com/science/article/pii/S1097276517305464
+September 29th, 2017: Maria, 3D conformation and conservation: http://www.sciencedirect.com/science/article/pii/S1097276517305464
 
 ----
 
-September 22th: Stanley, Monocle 2: http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4402.html
+September 22th, 2017: Stanley, Monocle 2: http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4402.html
 
 ----
 
-September 15th: TBA, new paper on HiChIP in T cells: http://www.biorxiv.org/content/early/2017/08/30/178269 
+September 15th, 2017: TBA, new paper on HiChIP in T cells: http://www.biorxiv.org/content/early/2017/08/30/178269 
 
 ----
 
