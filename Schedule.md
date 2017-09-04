@@ -2,7 +2,7 @@
 
 # When and where:
 
-We meet on **Fridays** at **5pm** in **301 BRB** (421 Curie Blvd). Light snack is provided thanks to the generosity of the Institute for Immunology (IFI). 
+We meet on **Fridays** at **4pm** in **301 BRB** (421 Curie Blvd). Light snack is provided thanks to the generosity of the Institute for Immunology (IFI). 
 
 ----
 
@@ -34,6 +34,12 @@ Kernel-based learning in scRNA: http://www.nature.com/nmeth/journal/v14/n4/full/
 
 ----
 **2017**
+
+----
+
+September 15th:TBA, New paper on HiChIP in T cells: http://www.biorxiv.org/content/early/2017/08/30/178269 
+
+----
 
 May 5th, 2017: Yeqiao Zhou, HiChIP party!
 
