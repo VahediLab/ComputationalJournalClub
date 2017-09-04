@@ -37,7 +37,7 @@ Kernel-based learning in scRNA: http://www.nature.com/nmeth/journal/v14/n4/full/
 
 ----
 
-September 15th:TBA, New paper on HiChIP in T cells: http://www.biorxiv.org/content/early/2017/08/30/178269 
+September 15th: TBA, New paper on HiChIP in T cells: http://www.biorxiv.org/content/early/2017/08/30/178269 
 
 ----
 
