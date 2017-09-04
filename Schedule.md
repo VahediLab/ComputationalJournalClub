@@ -38,7 +38,39 @@ Kernel-based learning in scRNA: http://www.nature.com/nmeth/journal/v14/n4/full/
 
 ----
 
-September 22th: Stanley, Monocle 2: http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4402.html
+December 1st: Maria
+
+----
+
+November 17th: Yeqiao
+
+----
+
+November 10rd: Stanley
+
+----
+
+November 3rd: Babak
+
+----
+
+October 28th: Golnaz
+
+----
+
+October 21th: GW
+
+----
+
+October 14th: George,
+
+----
+
+October 6th: Connie,
+
+----
+
+September 29th: Maria, 3D conformation and conservation: http://www.sciencedirect.com/science/article/pii/S1097276517305464
 
 ----
 
