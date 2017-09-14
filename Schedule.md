@@ -70,15 +70,15 @@ October 6th, 2017: Connie,
 
 ----
 
-September 29th, 2017: Maria, 3D conformation and conservation: http://www.sciencedirect.com/science/article/pii/S1097276517305464
+September 29th, 2017: Maria Fasolino, 3D conformation and conservation: http://www.sciencedirect.com/science/article/pii/S1097276517305464
 
 ----
 
-September 22th, 2017: Stanley, Monocle 2: http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4402.html
+September 22th, 2017: Stanley Cai, Monocle 2, "Reversed graph embedding resolves complex single-cell trajectories": http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4402.html
 
 ----
 
-September 15th, 2017: TBA, new paper on HiChIP in T cells: http://www.biorxiv.org/content/early/2017/08/30/178269 
+September 15th, 2017: Yeqiao Zhou, "Enhancer connectome in primary human cells reveals target genes of disease-associated DNA elements", HiChIP in T cells, http://www.biorxiv.org/content/early/2017/08/30/178269 
 
 ----
 
