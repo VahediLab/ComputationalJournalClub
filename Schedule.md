@@ -30,7 +30,7 @@ Kernel-based learning in scRNA: http://www.nature.com/nmeth/journal/v14/n4/full/
 
 ----
 
-#Journal club schedule:
+**Journal club schedule**
 
 ----
 **2017**
