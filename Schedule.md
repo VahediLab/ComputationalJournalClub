@@ -38,47 +38,47 @@ Kernel-based learning in scRNA: http://www.nature.com/nmeth/journal/v14/n4/full/
 
 ----
 
-December 1st, 2017: Maria
+December 8th, 2017: Maria
 
 ----
 
-November 17th, 2017: Yeqiao
+December 1st, 2017: Yeqiao
 
 ----
 
-November 10rd, 2017: Stanley
+November 17th, 2017: Stanley
 
 ----
 
-November 3rd, 2017: Babak
+November 10th, 2017: Babak
 
 ----
 
-October 28th, 2017: Golnaz
+November 3rd, 2017: Golnaz
 
 ----
 
-October 21th, 2017: GW
+October 28th, 2017: GW
 
 ----
 
-October 14th, 2017: George,
+October 21th, 2017: George,
 
 ----
 
-October 6th, 2017: Connie,
+October 14th, 2017: Connie,
 
 ----
 
-September 29th, 2017: Maria Fasolino, 3D conformation and conservation: http://www.sciencedirect.com/science/article/pii/S1097276517305464
+October 6th, 2017: Maria Fasolino, 3D conformation and conservation: http://www.sciencedirect.com/science/article/pii/S1097276517305464
 
 ----
 
-September 22th, 2017: Stanley Cai, Monocle 2, "Reversed graph embedding resolves complex single-cell trajectories": http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4402.html
+September 29th, 2017: Stanley Cai, Monocle 2, "Reversed graph embedding resolves complex single-cell trajectories": http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4402.html
 
 ----
 
-September 15th, 2017: Yeqiao Zhou, "Enhancer connectome in primary human cells reveals target genes of disease-associated DNA elements", HiChIP in T cells, http://www.biorxiv.org/content/early/2017/08/30/178269 
+September 22nd, 2017: Yeqiao Zhou, "Enhancer connectome in primary human cells reveals target genes of disease-associated DNA elements", HiChIP in T cells, http://www.biorxiv.org/content/early/2017/08/30/178269 
 
 ----
 
