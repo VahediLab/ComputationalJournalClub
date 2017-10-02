@@ -37,11 +37,15 @@ Kernel-based learning in scRNA: http://www.nature.com/nmeth/journal/v14/n4/full/
 
 ----
 
-December 8th, 2017: Maria Fasolino;
+December 15th, 2017: Maria Fasolino;
 
 ----
 
-December 1st, 2017: Yeqiao Zhou;
+December 8th, 2017: Yeqiao Zhou;
+
+----
+
+December 1st, 2017: Sasi Manne;
 
 ----
 
