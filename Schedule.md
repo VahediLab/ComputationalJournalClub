@@ -35,42 +35,41 @@ Kernel-based learning in scRNA: http://www.nature.com/nmeth/journal/v14/n4/full/
 ----
 **2017**
 
+----
+
+December 8th, 2017: Maria Fasolino;
 
 ----
 
-December 8th, 2017: Maria
+December 1st, 2017: Yeqiao Zhou;
 
 ----
 
-December 1st, 2017: Yeqiao
+November 17th, 2017: Babak Faryaib;
 
 ----
 
-November 17th, 2017: Stanley
+November 10rd, 2017: Golnaz Vahedi; TFs and loops: http://www.cell.com/molecular-cell/fulltext/S1097-2765(17)30603-2
 
 ----
 
-November 10th, 2017: Babak
+November 3rd 2017: John Johnson; Kees Murre's new cell paper: https://www.ncbi.nlm.nih.gov/pubmed/28938112
 
 ----
 
-November 3rd, 2017: Golnaz
+October 27th, 2017: George Georgakilas; On deep learning.
 
 ----
 
-October 28th, 2017: GW
+October 20st, 2017: Maria Fasolino, Two independent modes of chromatin organization: https://www.nature.com/nature/journal/vaap/ncurrent/pdf/nature24281.pdf
 
 ----
 
-October 21th, 2017: George,
+October 13th, 2017: Penn Epigenetics Institute Retreat.
 
 ----
 
-October 14th, 2017: Connie,
-
-----
-
-October 6th, 2017: Maria Fasolino, 3D conformation and conservation: http://www.sciencedirect.com/science/article/pii/S1097276517305464
+October 6th, 2017: IGG Retreat.
 
 ----
 
