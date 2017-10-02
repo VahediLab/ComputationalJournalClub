@@ -49,7 +49,7 @@ December 1st, 2017: Sasi Manne;
 
 ----
 
-November 17th, 2017: Babak Faryaib;
+November 17th, 2017: Babak Faryabi;
 
 ----
 
