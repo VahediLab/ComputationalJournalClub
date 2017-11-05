@@ -49,11 +49,12 @@ December 1st, 2017: Golnaz Vahedi; TFs and loops: http://www.cell.com/molecular-
 
 ----
 
-November 17th 2017: John Johnson; Kees Murre's new cell paper: https://www.ncbi.nlm.nih.gov/pubmed/28938112
+November 17th 2017: Naomi Goldman; Kees Murre's new cell paper: https://www.ncbi.nlm.nih.gov/pubmed/28938112
 
 ----
 
-November 10rd, 2017: George Georgakilas; On deep learning.
+November 10rd, 2017: Stanley Cai: PhenoGraph for single-cell RNA-seq developed by Dana Pe'er:
+http://www.cell.com/cell/abstract/S0092-8674(15)00637-6
 
 ----
 
