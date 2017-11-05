@@ -53,12 +53,12 @@ November 17th 2017: Naomi Goldman; Kees Murre's new cell paper: https://www.ncbi
 
 ----
 
-November 10rd, 2017: Stanley Cai: PhenoGraph for single-cell RNA-seq developed by Dana Pe'er:
+November 10rd, 2017: Stanley Cai; PhenoGraph for single-cell RNA-seq developed by Dana Pe'er:
 http://www.cell.com/cell/abstract/S0092-8674(15)00637-6
 
 ----
 
-November 3rd 2017: Maria Fasolino, Two independent modes of chromatin organization: https://www.nature.com/nature/journal/vaap/ncurrent/pdf/nature24281.pdf
+November 3rd 2017: Maria Fasolino; two independent modes of chromatin organization: https://www.nature.com/nature/journal/vaap/ncurrent/pdf/nature24281.pdf
 
 ----
 
