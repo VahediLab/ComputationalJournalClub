@@ -50,7 +50,7 @@ December 1st, 2017: Golnaz Vahedi; TFs and loops: http://www.cell.com/molecular-
 
 ----
 
-November 17th 2017: Naomi Goldman; Kees Murre's new cell paper: https://www.ncbi.nlm.nih.gov/pubmed/28938112
+November 17th 2017: Naomi Goldman; Kees Murre's new Cell paper: https://www.ncbi.nlm.nih.gov/pubmed/28938112
 
 ----
 
