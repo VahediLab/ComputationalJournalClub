@@ -37,7 +37,8 @@ Kernel-based learning in scRNA: http://www.nature.com/nmeth/journal/v14/n4/full/
 
 ----
 
-December 15th, 2017: Sasi Manne;
+December 15th, 2017: Sasi Manne; SIMLR: Visualization and analysis of single-cell RNA-seq data by kernel-based similarity learning
+https://www.ncbi.nlm.nih.gov/pubmed/28263960
 
 ----
 
