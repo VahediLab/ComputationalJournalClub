@@ -42,11 +42,11 @@ https://www.ncbi.nlm.nih.gov/pubmed/28263960
 
 ----
 
-December 8th, 2017: Babak Faryabi;
+December 8th, 2017: BGolnaz Vahedi; TFs and loops: http://www.cell.com/molecular-cell/fulltext/S1097-2765(17)30603-2
 
 ----
 
-December 1st, 2017: Golnaz Vahedi; TFs and loops: http://www.cell.com/molecular-cell/fulltext/S1097-2765(17)30603-2
+December 1st, 2017: No JC.
 
 ----
 
