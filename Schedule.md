@@ -33,20 +33,10 @@ Kernel-based learning in scRNA: http://www.nature.com/nmeth/journal/v14/n4/full/
 **Journal club schedule**
 
 ----
+**2018**
+
+----
 **2017**
-
-----
-
-December 15th, 2017: Sasi Manne; SIMLR: Visualization and analysis of single-cell RNA-seq data by kernel-based similarity learning
-https://www.ncbi.nlm.nih.gov/pubmed/28263960
-
-----
-
-December 8th, 2017: BGolnaz Vahedi; TFs and loops: http://www.cell.com/molecular-cell/fulltext/S1097-2765(17)30603-2
-
-----
-
-December 1st, 2017: No JC.
 
 ----
 
