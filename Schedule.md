@@ -19,7 +19,7 @@ May 4th:
 
 ----
 
-April 27th:
+April 27th: **Single-cell RNA-seq review**. 
 
 ----
 
@@ -27,7 +27,7 @@ April 20th:
 
 ----
 
-April 13th:
+April 13th: **Single-cell RNA-seq review**. 
 
 ----
 
