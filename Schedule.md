@@ -13,7 +13,7 @@ We meet on **Fridays** at **4pm** in **301 BRB** (421 Curie Blvd). Light snack i
 
 ----
 
-May 18th:**3D genome organization review session** 
+May 18th: **3D genome organization review session** 
 
 ----
 
@@ -21,7 +21,7 @@ May 11th: **Single-cell RNA-seq review session**.
 
 ----
 
-May 4th:**3D genome organization review session** 
+May 4th: **3D genome organization review session** 
 
 ----
 
@@ -29,7 +29,7 @@ April 27th: **Single-cell RNA-seq review session**. GW. Faryabi lab.
 
 ----
 
-April 20th:**3D genome organization review session**. Vahedi lab.
+April 20th: **3D genome organization review session**. Vahedi lab.
 
 ----
 
