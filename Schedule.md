@@ -57,7 +57,7 @@ March 9th: **3D genome organization review session**. Faryabi lab.
 
 ----
 
-March 2nd: **Single-cell RNA-seq review session**. Jonathan Schug (NGSC core director) and Kaestner lab.
+March 2nd: **Single-cell RNA-seq review session**. Jonathan Schug (NGSC Director) and Kaestner lab.
 
 ----
 **2017**
