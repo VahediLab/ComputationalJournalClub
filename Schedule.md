@@ -27,7 +27,7 @@ April 20th:
 
 ----
 
-April 13th: **Single-cell RNA-seq review**. 
+April 13th: **Single-cell RNA-seq review**. Div Agarwal. Nancy Zhang's lab.
 
 ----
 
