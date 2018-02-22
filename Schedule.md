@@ -11,39 +11,45 @@ We meet on **Fridays** at **4pm** in **301 BRB** (421 Curie Blvd). Light snack i
 ----
 **2018**
 
+----
 
+May 18th:**3D genome organizataion review session** 
 
 ----
 
-May 4th:
+May 11th: **Single-cell RNA-seq review session**. 
 
 ----
 
-April 27th: **Single-cell RNA-seq review**. 
+May 4th:**3D genome organizataion review session** 
 
 ----
 
-April 20th:
+April 27th: **Single-cell RNA-seq review session**. 
 
 ----
 
-April 13th: **Single-cell RNA-seq review**. Div Agarwal. Nancy Zhang's lab.
+April 20th:**3D genome organizataion review session** 
 
 ----
 
-April 6th:
+April 13th: **Single-cell RNA-seq review session**. Div Agarwal. Nancy Zhang's lab.
 
 ----
 
-March 30th: **Single-cell RNA-seq review**. Wherry lab and trainees from Johns Hopkins: TSCAN, SCRAT and BIRD.
+April 6th: **3D genome organizataion review session** 
 
 ----
 
-March 23th:
+March 30th: **Single-cell RNA-seq review session**. Wherry lab and trainees from Johns Hopkins: TSCAN, SCRAT and BIRD.
 
 ----
 
-March 16th: **Single-cell RNA-seq review**. Stanley Cai, Vahedi lab, BISCUIT: https://genomicscomputbiol.org/ojs/index.php/GCB/article/view/46 
+March 23th:**3D genome organizataion review session** 
+
+----
+
+March 16th: **Single-cell RNA-seq review session**. Stanley Cai, Vahedi lab, BISCUIT: https://genomicscomputbiol.org/ojs/index.php/GCB/article/view/46 
 
 ----
 
@@ -51,7 +57,7 @@ March 9th:
 
 ----
 
-March 2nd: **Single-cell RNA-seq review**.
+March 2nd: **Single-cell RNA-seq review**. Jonathan Schug and Kaestner lab.
 
 ----
 **2017**
