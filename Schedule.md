@@ -29,7 +29,7 @@ April 27th: **Single-cell RNA-seq review session**.
 
 ----
 
-April 20th:**3D genome organizataion review session** 
+April 20th:**3D genome organizataion review session**. Vahedi lab.
 
 ----
 
@@ -37,7 +37,7 @@ April 13th: **Single-cell RNA-seq review session**. Div Agarwal. Nancy Zhang's l
 
 ----
 
-April 6th: **3D genome organizataion review session** 
+April 6th: **3D genome organizataion review session**. Faryabi lab.
 
 ----
 
@@ -45,7 +45,7 @@ March 30th: **Single-cell RNA-seq review session**. Wherry lab and trainees from
 
 ----
 
-March 23th:**3D genome organizataion review session** 
+March 23th: **3D genome organizataion review session**. Vahedi lab.
 
 ----
 
@@ -53,7 +53,7 @@ March 16th: **Single-cell RNA-seq review session**. Stanley Cai, Vahedi lab, BIS
 
 ----
 
-March 9th: 
+March 9th: **3D genome organizataion review session**. Faryabi lab.
 
 ----
 
