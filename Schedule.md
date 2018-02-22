@@ -43,11 +43,11 @@ March 23th:
 
 ----
 
-March 16th:
+March 16th:**Single-cell RNA-seq review**. Stanley Cai, Vahedi lab, BISCUIT: https://genomicscomputbiol.org/ojs/index.php/GCB/article/view/46 
 
 ----
 
-March 9th: **Single-cell RNA-seq review**. Stanley Cai, Vahedi lab, BISCUIT: https://genomicscomputbiol.org/ojs/index.php/GCB/article/view/46 
+March 9th: 
 
 ----
 
