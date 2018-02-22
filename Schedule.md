@@ -12,11 +12,11 @@ We meet on **Fridays** at **4pm** in **301 BRB** (421 Curie Blvd). Light snack i
 **2018**
 ----
 
-March 2nd: Single-cell RNA-seq review. Stanley Cai, Vahedi lab, BISCUIT: https://genomicscomputbiol.org/ojs/index.php/GCB/article/view/46
+March 2nd: 
 
 ----
 
-March 9th: Single-cell RNA-seq review. Kaestner lab.
+March 9th: Single-cell RNA-seq review. Stanley Cai, Vahedi lab, BISCUIT: https://genomicscomputbiol.org/ojs/index.php/GCB/article/view/46 
 
 ----
 
