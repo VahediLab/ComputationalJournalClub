@@ -35,7 +35,7 @@ April 6th:
 
 ----
 
-March 30th: **Single-cell RNA-seq review**. Wherry lab and trainees from John Hopkins: TSCAN, SCRAT and BIRD.
+March 30th: **Single-cell RNA-seq review**. Wherry lab and trainees from Johns Hopkins: TSCAN, SCRAT and BIRD.
 
 ----
 
