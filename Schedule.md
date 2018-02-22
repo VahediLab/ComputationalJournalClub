@@ -10,17 +10,32 @@ We meet on **Fridays** at **4pm** in **301 BRB** (421 Curie Blvd). Light snack i
 
 ----
 **2018**
-----
 
-March 2nd: 
 
-----
-
-March 9th: Single-cell RNA-seq review. Stanley Cai, Vahedi lab, BISCUIT: https://genomicscomputbiol.org/ojs/index.php/GCB/article/view/46 
 
 ----
 
-March 16th:
+May 4th:
+
+----
+
+April 27th:
+
+----
+
+April 20th:
+
+----
+
+April 13th:
+
+----
+
+April 6th:
+
+----
+
+March 30th: Single-cell RNA-seq review. Wherry lab and trainees from John Hopkins: TSCAN, SCRAT and BIRD.
 
 ----
 
@@ -28,7 +43,15 @@ March 23th:
 
 ----
 
-March 30th: Single-cell RNA-seq review. Wherry lab and trainees from John Hopkins: TSCAN, SCRAT and BIRD.
+March 16th:
+
+----
+
+March 9th: Single-cell RNA-seq review. Stanley Cai, Vahedi lab, BISCUIT: https://genomicscomputbiol.org/ojs/index.php/GCB/article/view/46 
+
+----
+
+March 2nd: 
 
 ----
 **2017**
