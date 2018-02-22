@@ -6,34 +6,32 @@ We meet on **Fridays** at **4pm** in **301 BRB** (421 Curie Blvd). Light snack i
 
 ----
 
-# Paper suggestions:
-
-Information theory and epigenome: http://www.nature.com/ng/journal/vaop/ncurrent/pdf/ng.3811.pdf
-
-Sean Davis' collection of single-cell papers: https://github.com/seandavi/awesome-single-cell
-
-scRNA-seq analysis: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1176-5
-
-New single-cell RNA-seq analysis by Trapnell: http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4150.html
-
-Single-cell RNA-seq in Nippo-infected mice (Th2 response): http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4866375&blobtype=pdf
-
-Batch effects in scRNA-seq: http://www.nature.com/articles/srep39921
-
-Genetic Drivers of Epigenetic and Transcriptional Variation in Human Immune Cells :http://www.cell.com/cell/fulltext/S0092-8674(16)31446-5
-
-Single-cell RNA-seq in Th1 and Tfh cells: http://biorxiv.org/content/biorxiv/early/2016/09/13/074971.full.pdf
-
-SCnorm: http://www.nature.com/doifinder/10.1038/nmeth.4263
-
-Kernel-based learning in scRNA: http://www.nature.com/nmeth/journal/v14/n4/full/nmeth.4207.html?utm_content=buffer7383c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-
-----
-
 **Journal club schedule**
 
 ----
 **2018**
+----
+
+March 2nd: Single-cell RNA-seq review. Stanley Cai, Vahedi lab, BISCUIT: https://genomicscomputbiol.org/ojs/index.php/GCB/article/view/46
+
+----
+
+March 9th: Single-cell RNA-seq review. Kaestner lab.
+
+----
+
+March 16th:
+
+----
+
+March 23th:
+
+----
+
+March 30th: Single-cell RNA-seq review. Wherry lab and trainees from John Hopkins: TSCAN, SCRAT and BIRD.
+
+----
+
 
 ----
 **2017**
