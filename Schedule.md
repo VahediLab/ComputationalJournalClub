@@ -57,7 +57,7 @@ March 9th:
 
 ----
 
-March 2nd: **Single-cell RNA-seq review**. Jonathan Schug and Kaestner lab.
+March 2nd: **Single-cell RNA-seq review session**. Jonathan Schug and Kaestner lab.
 
 ----
 **2017**
