@@ -25,7 +25,7 @@ May 4th:**3D genome organizataion review session**
 
 ----
 
-April 27th: **Single-cell RNA-seq review session**. 
+April 27th: **Single-cell RNA-seq review session**. GW. Faryabi lab.
 
 ----
 
