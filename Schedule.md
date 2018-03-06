@@ -53,11 +53,12 @@ March 16th: **Single-cell RNA-seq review session**. Stanley Cai, Vahedi lab, BIS
 
 ----
 
-March 9th: **3D genome organization review session**. Faryabi lab.
+March 9th: **3D genome organization review session**. Faryabi lab. https://www.ncbi.nlm.nih.gov/pubmed/29224777
 
 ----
 
-March 2nd: **Single-cell RNA-seq review session**. Jonathan Schug (NGSC Director) and Kaestner lab.
+March 2nd: **Single-cell RNA-seq review session**. Jonathan Schug (NGSC Director) and Kaestner lab:
+https://www.nature.com/articles/nbt.3854
 
 ----
 **2017**
