@@ -45,7 +45,7 @@ March 30th: **Single-cell RNA-seq review session**. Wherry lab and trainees from
 
 ----
 
-March 23th: **3D genome organization review session**. Vahedi lab.
+March 23th: Floor Happy Hour. No JC.
 
 ----
 
