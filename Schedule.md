@@ -37,11 +37,11 @@ April 13th: **Single-cell RNA-seq review session**. Div Agarwal. Nancy Zhang's l
 
 ----
 
-April 6th: **3D genome organization review session**. Faryabi lab.
+April 6th: **3D genome organization review session**. JJ, Vahedi lab: 3D genome during T cell development: https://www.ncbi.nlm.nih.gov/pubmed/29466755
 
 ----
 
-March 30th: **Single-cell RNA-seq review session**. Wherry lab and trainees from Johns Hopkins: TSCAN, SCRAT and BIRD.
+March 30th: **Single-cell RNA-seq review session**. Trainees from Johns Hopkins: TSCAN, SCRAT and BIRD.
 
 ----
 
