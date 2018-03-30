@@ -30,7 +30,7 @@ May 4th: **3D genome organization review session**
 
 ----
 
-April 27th: **Single-cell RNA-seq review session**. GW. Faryabi lab.
+April 27th: **Single-cell RNA-seq review session**. Gregory Schwartz. Faryabi lab.
 
 ----
 
@@ -42,7 +42,7 @@ April 13th: **Single-cell RNA-seq review session**. Div Agarwal. Nancy Zhang's l
 
 ----
 
-April 6th: **3D genome organization review session**. JJ, Vahedi lab: 3D genome during T cell development: https://www.ncbi.nlm.nih.gov/pubmed/29466755
+April 6th: **3D genome organization review session**. John Johnson. Vahedi lab: 3D genome during T cell development: https://www.ncbi.nlm.nih.gov/pubmed/29466755
 
 ----
 
