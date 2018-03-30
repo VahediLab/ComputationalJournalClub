@@ -17,7 +17,7 @@ May 18th: **3D genome organization review session**
 
 ----
 
-May 11th: **Single-cell RNA-seq review session**. Wherry lab. Sasi Manne. 
+May 11th: **Single-cell RNA-seq review session**. Sasi Manne. Wherry lab. 
 SIMLR-https://www.nature.com/articles/nmeth.4207
 https://github.com/BatzoglouLabSU/SIMLR
 
