@@ -48,7 +48,9 @@ April 6th: **3D genome organization review session**. John Johnson. Vahedi lab: 
 
 March 30th: **Single-cell RNA-seq review session**. Zhicheng Ji and Weiqiang Zhou. Trainees from Johns Hopkins: TSCAN, SCRAT and BIRD.
 Slides:
+
 https://drive.google.com/file/d/1lJP4SMeM-H7VBPZ9R3Bq6zFbBsofOJKx/view?usp=sharing
+
 https://drive.google.com/file/d/1B12gdqleDz5xaJEXls_Ei3GoRBI9VO1V/view?usp=sharing
 
 ----
