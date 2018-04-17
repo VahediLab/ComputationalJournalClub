@@ -34,11 +34,11 @@ April 27th: **Single-cell RNA-seq review session**. Gregory Schwartz. Faryabi la
 
 ----
 
-April 20th: **3D genome organization review session**. Vahedi lab.
+April 20th: **3D genome organization review session**. No JC.
 
 ----
 
-April 13th: **Single-cell RNA-seq review session**. Div Agarwal. Nancy Zhang's lab.
+April 13th: **Single-cell RNA-seq review session**. Cancelled.
 
 ----
 
