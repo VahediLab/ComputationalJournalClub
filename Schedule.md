@@ -26,11 +26,12 @@ https://github.com/aertslab/SCENIC
 
 ----
 
-May 4th: **3D genome organization review session** 
+May 4th: **3D genome organization review session**. No JC.
 
 ----
 
-April 27th: **Single-cell RNA-seq review session**. Gregory Schwartz. Faryabi lab.
+April 27th: **Single-cell RNA-seq review session**. Gregory Schwartz. Faryabi lab. Modularity maximization in community detection:
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.84.066122
 
 ----
 
