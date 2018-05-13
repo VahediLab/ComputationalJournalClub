@@ -13,7 +13,8 @@ We meet on **Fridays** at **4pm** in **301 BRB** (421 Curie Blvd). Light snack i
 
 ----
 
-May 18th: **3D genome organization review session** 
+May 18th: **3D genome organization review session**. Ben Auerbach. Vahedi lab. The role of transcription factor AP-1 on multi-loop interaction communities:
+https://www.sciencedirect.com/science/article/pii/S1097276517306032?via%3Dihub
 
 ----
 
