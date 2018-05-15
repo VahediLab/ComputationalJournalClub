@@ -10,6 +10,9 @@ We meet on **Fridays** at **4pm** in **301 BRB** (421 Curie Blvd). Light snack i
 
 ----
 **2018**
+----
+
+May 25th: **Single-cell RNA-seq review session**. Div Agarwal, Nancy Zhang's lab.
 
 ----
 
