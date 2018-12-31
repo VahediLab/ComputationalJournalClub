@@ -29,6 +29,23 @@ March 1st: Sasi Manne
 
 March 8th: Babak Faryabi
 
+March 15th: Yeqiao Zhou
+
+March 22th: Golnaz Vahedi
+
+March 29th: GW
+
+April 5th: Maria Fasolino
+
+April 12th: Jelena Petrovic
+
+April 19th: Naomi Goldman
+
+April 26th: Paul Hess
+
+May 3rd: Sasi Manne
+
+May 10th: Babak Faryabi
 
 ----
 **2018**
