@@ -7,6 +7,28 @@ We meet on **Fridays** at **4pm** in **301 BRB** (421 Curie Blvd). Light snack i
 ----
 
 **Journal club schedule**
+----
+**2019**
+----
+
+January 11th: Yeqiao Zhou
+
+January 18th: Golnaz Vahedi
+
+January 25th: GW
+
+February 1st: Maria Fasolino
+
+February 8th: Jelena Petrovic
+
+February 15th: Naomi Goldman
+
+February 22nd: Paul Hess
+
+March 1st: Sasi Manne
+
+March 8th: Babak Faryabi
+
 
 ----
 **2018**
