@@ -11,7 +11,7 @@ We meet on **Fridays** at **4pm** in **301 BRB** (421 Curie Blvd). Light snack i
 **2019**
 ----
 
-January 11th: Yeqiao Zhou
+January 11th: Yeqiao Zhou: http://science.sciencemag.org/content/362/6413/eaau1783
 
 January 18th: G&E recruitment
 
