@@ -13,39 +13,46 @@ We meet on **Fridays** at **4pm** in **301 BRB** (421 Curie Blvd). Light snack i
 
 January 11th: Yeqiao Zhou
 
-January 18th: Golnaz Vahedi
+January 18th: G&E recruitment
 
-January 25th: GW
+January 25th: IGG recruitment
 
-February 1st: Maria Fasolino
+February 1st: Golnaz: "Transcription Elongation Can Affect Genome 3D Structure":
+https://www.ncbi.nlm.nih.gov/pubmed/30146161
 
-February 8th: Jelena Petrovic
+February 8st: G&E recruitment
 
-February 15th: Naomi Goldman
+February 15th: GW
 
-February 22nd: Paul Hess
+February 22nd: Maria Fasolino
 
-March 1st: Sasi Manne
+March 1st: Jelena Petrovic
 
-March 8th: Babak Faryabi
+March 8th: Naomi Goldman
 
-March 15th: Yeqiao Zhou
+March 15th: Paul Hess
 
-March 22th: Golnaz Vahedi
+March 22nd: Sasi Manne
 
-March 29th: GW
+March 29th: Babak Faryabi
 
-April 5th: Maria Fasolino
+April 5th: Yeqiao Zhou
 
-April 12th: Jelena Petrovic
+April 12th: Golnaz Vahedi
 
-April 19th: Naomi Goldman
+April 19th: GW
 
-April 26th: Paul Hess
+April 26th: Maria Fasolino
 
-May 3rd: Sasi Manne
+May 3rd: Jelena Petrovic
 
-May 10th: Babak Faryabi
+May 10th: Naomi Goldman
+
+May 17th: Paul Hess
+
+May 24th: Sasi Manne
+
+June 1st: Babak Faryabi
 
 ----
 **2018**
