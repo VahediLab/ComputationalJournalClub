@@ -24,7 +24,7 @@ February 8st: G&E recruitment
 
 February 15th: GW
 
-February 22nd: Maria Fasolino
+February 22nd: Maria Fasolino: CellPhoneDB: https://www.ncbi.nlm.nih.gov/pubmed/30429548
 
 March 1st: Jelena Petrovic
 
