@@ -32,27 +32,29 @@ March 8th: Naomi Goldman
 
 March 15th: Paul Hess
 
-March 22nd: Sasi Manne
+March 22nd: Single Cell Genomics Day NY
 
-March 29th: Babak Faryabi
+March 29th: Sasi Manne
 
-April 5th: Yeqiao Zhou
+April 5th: Babak Faryabi
 
-April 12th: Golnaz Vahedi
+April 12th: Yeqiao Zhou
 
-April 19th: GW
+April 19th: Golnaz Vahedi
 
-April 26th: Maria Fasolino
+April 26th: GW
 
-May 3rd: Jelena Petrovic
+May 3rd: Maria Fasolino
 
-May 10th: Naomi Goldman
+May 10th: Jelena Petrovic
 
-May 17th: Paul Hess
+May 17th: Naomi Goldman
 
-May 24th: Sasi Manne
+May 24th: Paul Hess
 
-June 1st: Babak Faryabi
+June 1st: Sasi Manne
+
+June 8th: Babak Faryabi
 
 ----
 **2018**
