@@ -26,7 +26,7 @@ February 15th: GW: KBET batch correction: https://www.nature.com/articles/s41592
 
 February 22nd: Maria Fasolino: CellPhoneDB: https://www.ncbi.nlm.nih.gov/pubmed/30429548
 
-March 1st: Jelena Petrovic
+March 1st: Jelena Petrovic: enhancer-promoter and insulated neighborhoods: https://www.ncbi.nlm.nih.gov/pubmed/30527662
 
 March 8th: Naomi Goldman
 
