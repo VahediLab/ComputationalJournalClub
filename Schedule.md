@@ -22,7 +22,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/30146161
 
 February 8st: G&E recruitment
 
-February 15th: GW: https://www.nature.com/articles/s41592-018-0254-1?WT.feed_name=subjects_genetics
+February 15th: GW: KBET batch correction: https://www.nature.com/articles/s41592-018-0254-1?WT.feed_name=subjects_genetics
 
 February 22nd: Maria Fasolino: CellPhoneDB: https://www.ncbi.nlm.nih.gov/pubmed/30429548
 
