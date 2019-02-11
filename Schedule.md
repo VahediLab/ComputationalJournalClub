@@ -34,7 +34,7 @@ March 15th: Paul Hess
 
 March 22nd: Single Cell Genomics Day NY
 
-March 29th: Sasi Manne
+March 29th: Sasi Manne: Cicero: https://www.ncbi.nlm.nih.gov/pubmed/30078726
 
 April 5th: Babak Faryabi
 
