@@ -30,11 +30,11 @@ March 1st: Jelena Petrovic: enhancer-promoter and insulated neighborhoods: https
 
 March 8th: Conversation in Genetics by Drs. Kaestner and Vahedi.https://events.med.upenn.edu/genetics/#!view/event/date/20190308/event_id/701319
 
-March 15th: TooManyCells workshop by GW from Faryabi lab
+March 15th: Naomi Goldman
 
 March 22nd: Single Cell Genomics Day NYC
 
-March 29th: Naomi Goldman
+March 29th: TooManyCells workshop by GW from Faryabi lab.
 
 April 5th: Paul Hess
 
