@@ -34,7 +34,8 @@ March 15th: Naomi Goldman
 
 March 22nd: Single Cell Genomics Day NYC
 
-March 29th: TooManyCells workshop by GW from Faryabi lab.
+March 29th: TooManyCells workshop by GW from Faryabi lab:
+https://www.biorxiv.org/content/10.1101/519660v1
 
 April 5th: Paul Hess
 
