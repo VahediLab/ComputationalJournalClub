@@ -28,33 +28,39 @@ February 22nd: Maria Fasolino: CellPhoneDB: https://www.ncbi.nlm.nih.gov/pubmed/
 
 March 1st: Jelena Petrovic: enhancer-promoter and insulated neighborhoods: https://www.ncbi.nlm.nih.gov/pubmed/30527662
 
-March 8th: Naomi Goldman
+March 8th: Conversation in Genetics by Drs. Kaestner and Vahedi.https://events.med.upenn.edu/genetics/#!view/event/date/20190308/event_id/701319
 
-March 15th: Paul Hess
+March 15th: TooManyCells workshop by GW from Faryabi lab
 
-March 22nd: Single Cell Genomics Day NY
+March 22nd: Single Cell Genomics Day NYC
 
-March 29th: Sasi Manne: Cicero: https://www.ncbi.nlm.nih.gov/pubmed/30078726
+March 29th: Naomi Goldman
 
-April 5th: Babak Faryabi
+April 5th: Paul Hess
 
-April 12th: Yeqiao Zhou
+April 12th: no JC.
 
-April 19th: Golnaz Vahedi
+April 19th: Sasi Manne: Cicero: https://www.ncbi.nlm.nih.gov/pubmed/30078726
 
-April 26th: GW
+April 26th: Babak Faryabi
 
-May 3rd: Maria Fasolino
+May 3rd: Yeqiao Zhou
 
-May 10th: Jelena Petrovic
+May 10th: Golnaz Vahedi
 
-May 17th: Naomi Goldman
+May 17th: GW
 
-May 24th: Paul Hess
+May 24th: Maria Fasolino
 
-June 1st: Sasi Manne
+June 1st: Jelena Petrovic
 
-June 8th: Babak Faryabi
+June 8th: Naomi Goldman
+
+June 15th: Paul Hess
+
+June 22nd: Sasi Manne
+
+June 29th: Babak Faryabi
 
 ----
 **2018**
