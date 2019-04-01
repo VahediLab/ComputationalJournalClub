@@ -37,7 +37,7 @@ March 22nd: Single Cell Genomics Day NYC
 March 29th: TooManyCells workshop by GW from Faryabi lab:
 https://www.biorxiv.org/content/10.1101/519660v1
 
-April 5th: Paul Hess
+April 5th: Paul Hess: https://www.ncbi.nlm.nih.gov/pubmed/30531897
 
 April 12th: no JC.
 
