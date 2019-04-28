@@ -46,9 +46,9 @@ April 19th: Sasi Manne: Cicero: https://www.ncbi.nlm.nih.gov/pubmed/30078726
 
 April 26th: Babak Faryabi: https://www.biorxiv.org/content/biorxiv/early/2019/04/22/615179.full.pdf.
 
-May 3rd: Yeqiao Zhou
+May 3rd: No JC.
 
-May 10th: Golnaz Vahedi
+May 10th: Golnaz Vahedi: Extensive Heterogeneity and Intrinsic Variation in Spatial Genome Organization. https://www.ncbi.nlm.nih.gov/pubmed/30799036
 
 May 17th: GW
 
