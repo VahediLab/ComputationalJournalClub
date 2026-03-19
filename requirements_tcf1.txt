@@ -1,0 +1,8 @@
+# Core dependencies for tcf1_mutation_search.py
+requests>=2.31
+biopython>=1.83
+pandas>=2.0
+tqdm>=4.66
+
+# Optional – required only for BAM/indexed VCF support
+# pysam>=0.22
