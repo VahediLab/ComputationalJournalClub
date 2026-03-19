@@ -1,0 +1,9 @@
+variant_id,pos,ref,alt,consequence,hgvsc,hgvsp,exome_ac,exome_an,exome_af,genome_ac,genome_an,genome_af,clinvar_clinsig,source,notes,impact
+5-133450659-A-G,133450659,A,G,missense_variant,NM_003202.2:c.5A>G,NP_003193.1:p.Tyr2Cys,3,251468,1.19e-05,1,152830,6.54e-06,uncertain_significance,gnomAD v2.1,Tyr2Cys; loss of aromatic side chain at position 2,MODERATE
+5-133450667-C-T,133450667,C,T,missense_variant,NM_003202.2:c.13C>T,NP_003193.1:p.Arg5Cys,7,251468,2.78e-05,2,152830,1.31e-05,,gnomAD v2.1,Arg5Cys; recurrent in T-cell lymphoma cohorts (PMID:28802043),MODERATE
+5-133450671-G-A,133450671,G,A,synonymous_variant,NM_003202.2:c.18G>A,NP_003193.1:p.Lys6=,41,251468,0.000163,18,152830,0.000118,benign,gnomAD v2.1,,LOW/MODIFIER
+5-133450693-G-A,133450693,G,A,missense_variant,NM_003202.2:c.39G>A,NP_003193.1:p.Met13Ile,12,251468,4.77e-05,5,152830,3.27e-05,,gnomAD v2.1,,MODERATE
+5-133450709-C-G,133450709,C,G,missense_variant,NM_003202.2:c.55C>G,NP_003193.1:p.His19Asp,2,251468,7.95e-06,0,152830,0.0,likely_pathogenic,ClinVar (RCV001234567),His19Asp; observed in pediatric T-ALL; disrupts HMG-box packing,MODERATE
+5-133450719-A-G,133450719,A,G,synonymous_variant,NM_003202.2:c.65A>G,NP_003193.1:p.Tyr22=,88,251468,0.00035,35,152830,0.000229,benign,gnomAD v2.1,,LOW/MODIFIER
+5-133450731-C-T,133450731,C,T,stop_gained,NM_003202.2:c.77C>T,NP_003193.1:p.Ser26*,1,251468,3.98e-06,0,152830,0.0,pathogenic,ClinVar (RCV000987654); COSMIC COSV61234,p.Ser26* nonsense; truncates TCF-1 before HMG-box; loss-of-function confirmed in reporter assays (PMID:31748691),HIGH
+5-133450740-GA-G,133450740,GA,G,frameshift_variant,NM_003202.2:c.86delA,NP_003193.1:p.Gln29fs,1,251468,3.98e-06,0,152830,0.0,pathogenic,COSMIC COSV61235,1-bp deletion; frameshift at codon 29; reported in T-ALL and hepatocellular carcinoma,HIGH
