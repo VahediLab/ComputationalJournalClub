@@ -85,7 +85,7 @@ KNOWN_VARIANTS = [
         "genome_ac": 2, "genome_an": 152_830, "genome_af": 1.31e-5,
         "clinvar_clinsig": "",
         "source": "gnomAD v2.1",
-        "notes": "Arg5Cys; recurrent in T-cell lymphoma cohorts (PMID:28802043)",
+        "notes": "Arg5Cys",
     },
     {
         "variant_id": "5-133450693-G-A",
@@ -107,8 +107,8 @@ KNOWN_VARIANTS = [
         "exome_ac": 2,  "exome_an": 251_468, "exome_af": 7.95e-6,
         "genome_ac": 0, "genome_an": 152_830, "genome_af": 0.0,
         "clinvar_clinsig": "likely_pathogenic",
-        "source": "ClinVar (RCV001234567)",
-        "notes": "His19Asp; observed in pediatric T-ALL; disrupts HMG-box packing",
+        "source": "ClinVar",
+        "notes": "His19Asp",
     },
     # --- Synonymous variants (LOW impact) ---
     {
@@ -143,9 +143,8 @@ KNOWN_VARIANTS = [
         "exome_ac": 1,  "exome_an": 251_468, "exome_af": 3.98e-6,
         "genome_ac": 0, "genome_an": 152_830, "genome_af": 0.0,
         "clinvar_clinsig": "pathogenic",
-        "source": "ClinVar (RCV000987654); COSMIC COSV61234",
-        "notes": "p.Ser26* nonsense; truncates TCF-1 before HMG-box; "
-                 "loss-of-function confirmed in reporter assays (PMID:31748691)",
+        "source": "ClinVar; COSMIC",
+        "notes": "p.Ser26* nonsense",
     },
     # --- Frameshift (HIGH impact) ---
     {
@@ -157,9 +156,8 @@ KNOWN_VARIANTS = [
         "exome_ac": 1,  "exome_an": 251_468, "exome_af": 3.98e-6,
         "genome_ac": 0, "genome_an": 152_830, "genome_af": 0.0,
         "clinvar_clinsig": "pathogenic",
-        "source": "COSMIC COSV61235",
-        "notes": "1-bp deletion; frameshift at codon 29; "
-                 "reported in T-ALL and hepatocellular carcinoma",
+        "source": "COSMIC",
+        "notes": "1-bp deletion; frameshift at codon 29",
     },
 ]
 
